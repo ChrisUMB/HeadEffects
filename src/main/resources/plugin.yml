@@ -1,0 +1,7 @@
+name: HeadEffects
+version: ${project.version}
+main: me.chris.headeffects.HeadEffects
+commands:
+  headeffects:
+    description: main command for managing head effects.
+    usage: /headeffects
